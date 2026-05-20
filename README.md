@@ -42,9 +42,6 @@ A premium Flutter-based fitness tracking application focused on immersive workou
 
 - Flutter
 - Dart
-- Custom animations
-- Glassmorphism UI
-- Neon design system
 
 ---
 
@@ -58,6 +55,13 @@ This project mainly focused on:
 - Gamification systems
 
 ---
+
+## ✨ Features
+
+The Premium and Best User Interface and User Experience:
+- Custom animations
+- Glassmorphism UI
+- Neon design system
 
 ## 🚧 Future Improvements
 
